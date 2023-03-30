@@ -1,0 +1,22 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "a game of blackjack you can play in your computer's terminal",
+  "main": "bin/index.js",
+  "bin": {
+    "blackjack": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blackjack",
+    "cards",
+    "game",
+    "terminal",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "ked",
+  "license": "MIT"
+}
